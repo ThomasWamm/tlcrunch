@@ -1,0 +1,9 @@
+Results of tlcrunch.py on various computers.
+Setup option 2
+
+Steps/second   Summary Mashup           Computer Description
+------------   ----------------------   ---------------------------------
+417,030        1.8328406655341598e+25   322,881 steps in 0.774 seconds
+                                        M1 Mac Mini, Python 3.9.0 w/Rosetta2
+426,238        1.8328406655341598e+25   322,881 steps in 0.758 seconds
+                                        ditto
