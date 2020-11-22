@@ -120,7 +120,7 @@ columns = 3    # for larger displays
 columns = 1    # for maximum simplicity
 while i < len(setuplib):
     for j in range(i, min(i+columns, len(setuplib))):
-        print(f'{j:2d} {setuplib[j][-1]:40}', end='')
+        print(f"{j:2d}: {setuplib[j][-1]:40}", end='')
     print()
     i += columns
 

@@ -1,5 +1,5 @@
 Results of tlcrunch.py on various computers.
-Setup option 2
+Setup option 2: 323k steps to lunar impact
 
 Steps/second   Summary Mashup           Computer Description
 ------------   ----------------------   ---------------------------------
