@@ -59,4 +59,7 @@ Set#     Computed_Mashup            Performance
  21   7.76069999810877619e+22  372,090 steps / 0.730 sec = 509,830 /sec
  22   2.23192861616390890e+23  125,792 steps / 0.268 sec = 469,627 /sec
 
-
+        Dell Inspiron15 i5-8250U laptop, Python 3.9.0 in VScode
+  1   1.83284066553421323e+25  322,881 steps / 0.750 sec = 430,508 /sec
+  1   1.83284066553421323e+25  322,881 steps / 0.766 sec = 421,722 /sec
+  1   1.83284066553421323e+25  322,881 steps / 0.766 sec = 421,722 /sec
