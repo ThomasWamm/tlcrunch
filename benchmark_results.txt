@@ -34,7 +34,7 @@ Set#     Computed_Mashup            Performance
  22   2.23192861616342907e+23  125,792 steps / 0.312 sec = 403,637 /sec
  22   2.23192861616342907e+23  125,792 steps / 0.315 sec = 399,729 /sec
 
-              M1 Mac Mini, Pythonista 3.6  ( DIFFERENT mashups from above! )
+            M1 Mac Mini, Pythonista 3.6  ( DIFFERENT mashups from above! )
   1   1.83284051470291135e+25  322,881 steps / 0.576 sec = 561,031 /sec
   2   1.59762241150522742e+27  863,555,554 steps / 1,550.570 sec = 556,927 /sec
   3   8.77097405062681634e+24  2,534,936 steps / 4.612 sec = 549,683 /sec
@@ -59,10 +59,10 @@ Set#     Computed_Mashup            Performance
  21   7.76069999810877619e+22  372,090 steps / 0.730 sec = 509,830 /sec
  22   2.23192861616390890e+23  125,792 steps / 0.268 sec = 469,627 /sec
 
-        Dell Inspiron15 i5-8250U laptop, Python 3.9.0 in VScode
+        Inspiron15 i5-8250U, Python 3.9.0 in VScode (DIFFERENT mashups)
   1   1.83284066553421323e+25  322,881 steps / 0.750 sec = 430,508 /sec
   1   1.83284066553421323e+25  322,881 steps / 0.766 sec = 421,722 /sec
-  2        did not finish withon 20 hours
+  2        did not finish within 20 hours
   3   8.77098454899153282e+24  2,534,936 steps / 5.562 sec = 455,718 /sec
   3   8.77098454899153282e+24  2,534,936 steps / 6.078 sec = 417,058 /sec
   3   8.77098454899153282e+24  2,534,936 steps / 5.516 sec = 459,591 /sec
