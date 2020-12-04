@@ -161,7 +161,7 @@ Set#     Computed_Mashup            Performance
 
     EeePC Intel Atom D510, Python 3.9.0 in VScode (DIFFERENT mashups)
   1   1.83284066553424458e+25  322,881 steps / 7.375 sec = 43,780 /sec
-  1   1.83284066553424458e+25  322,881 steps / 6.672 sec = 48,394 /sec
+  1   1.83284066553424458e+25  322,881 steps / 6.281 sec = 51,403 /sec
   1   1.83284066553424458e+25  322,881 steps / 6.469 sec = 49,913 /sec
   2        DNF
   3   8.77098454899153926e+24  2,534,936 steps / 51.031 sec = 49,674 /sec
