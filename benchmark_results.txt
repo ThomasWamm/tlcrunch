@@ -245,8 +245,7 @@ Set#     Computed_Mashup            Performance
 
      Raspberry Pi 4B with VNC connection running 32-bit Thonny Python 3.7.3
   1   1.83284063862051964e+25  322,881 steps / 2.921 sec = 110,519 /sec
-
-  2       deferred (takes long time)
+  2   4.12666763569201398e+26  231,267,623 steps / 2,078.195 sec = 111,282 /sec
   3   8.77098167839680241e+24  2,534,936 steps / 22.838 sec = 110,994 /sec
   4   1.83284063862051964e+25  322,881 steps / 2.944 sec = 109,665 /sec
   5   8.78204437168174704e+24  6,141,078 steps / 56.754 sec = 108,204 /sec
