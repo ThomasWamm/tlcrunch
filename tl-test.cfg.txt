@@ -1,0 +1,5 @@
+{"for custom configuration: ": "edit then resave as tl.cfg",
+ "windowwidth": 1000,
+ "windowheight": 700,
+ "localconfig": "for comparison testing"}
+ 
