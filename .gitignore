@@ -1,2 +1,4 @@
 workspace.code-workspace
 .vscode/settings.json
+.gitignore
+run-git-gui-on-rpi
